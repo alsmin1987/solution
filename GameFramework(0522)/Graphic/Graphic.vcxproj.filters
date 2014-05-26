@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="graphic.h" />
+    <ClInclude Include="DxInit.h" />
+    <ClInclude Include="matariel.h" />
+    <ClInclude Include="renderer.h" />
+    <ClInclude Include="indexbuff.h" />
+    <ClInclude Include="box.h" />
+    <ClInclude Include="vertexbuff.h" />
+    <ClInclude Include="texture.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="DxInit.cpp" />
+    <ClCompile Include="matariel.cpp" />
+    <ClCompile Include="renderer.cpp" />
+    <ClCompile Include="indexbuff.cpp" />
+    <ClCompile Include="box.cpp" />
+    <ClCompile Include="vertexbuff.cpp" />
+    <ClCompile Include="texture.cpp" />
+  </ItemGroup>
+</Project>
